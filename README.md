@@ -2,9 +2,8 @@
 
 A web app that places virtual accessories (glasses, hat, mustache) on a face in a photo, using facial landmarks detected by MediaPipe.
 
-**Live app:** [your Streamlit link]
+**Live app:** https://ar-tryon-kcx38ry8ahcvwe5quhtptd.streamlit.app/
 
-![Demo](screenshots/demo.png)
 
 ## Features
 - Take a photo with the camera or upload one
